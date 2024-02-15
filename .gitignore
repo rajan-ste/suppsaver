@@ -131,7 +131,7 @@ dist
 .pnp.*
 
 # python venv
-api/scraper/venv/
-api/scraper/__pycache__
+scraper/venv/
+scraper/__pycache__
 
 api/src/app/config
