@@ -135,3 +135,5 @@ scraper/venv/
 scraper/__pycache__
 
 api/src/app/config
+
+.md
